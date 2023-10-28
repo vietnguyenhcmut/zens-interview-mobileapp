@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2e251ce3-d075-4f92-b51f-1b47fa104772"
+      }
+    },
+    "owner": "vietnguyenhcmut"
   }
 }
