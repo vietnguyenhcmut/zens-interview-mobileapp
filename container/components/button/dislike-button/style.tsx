@@ -2,7 +2,7 @@ import { StyleSheet} from "react-native";
 
 export const styles = StyleSheet.create({
   dislikeButton: {
-    backgroundColor: 'green',
+    backgroundColor: '#29B363',
     height: 40,
     width: 120,
     justifyContent: 'center',

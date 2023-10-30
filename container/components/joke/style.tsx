@@ -5,7 +5,7 @@ export const styles = StyleSheet.create({
     width: '100%',
     paddingTop: 50,
     paddingBottom: 50,
-    backgroundColor: 'green',
+    backgroundColor: '#29B363',
     justifyContent: 'center',
     alignItems: 'center',
   },
